@@ -39,7 +39,7 @@ where `LENGTH` is the length of the ship, `FIRST_SQUARE` and `LAST_SQUARE` its f
 
 In this file, you must have 4 ships (of lengths 2,3,4 and 5).
 
-Position file example:
+**Position file example:**
 
 ```
 $> cat examples/pos1
@@ -48,3 +48,9 @@ $> cat examples/pos1
 4:B5:B8
 5:D7:H7
 ```
+<br>
+
+## Authorized functions for this project:
+
+`open, close, read, write, lseek, malloc, free, getpid, kill, signal,
+sigaction, sigemptyset, setcontext, getcontext, usleep, nanosleep, pause`
