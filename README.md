@@ -54,3 +54,17 @@ $> cat examples/pos1
 
 `open, close, read, write, lseek, malloc, free, getpid, kill, signal,
 sigaction, sigemptyset, setcontext, getcontext, usleep, nanosleep, pause`
+
+<br>
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png"/>
+</p>
+<p align="center">
+  <img src="screenshots/screenshot2.png"/>
+</p>
+<p align="center">
+  <img src="screenshots/screenshot3.png"/>
+</p>
